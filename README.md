@@ -1,2 +1,2 @@
-# Se_Oriente
- Projeto de Jogo Educacional do IFBAIANO  Campus Catu
+# JOGO_LAB
+PROJETO DE JOGO EDUCACIONAL IFBAIANO CAMPUS CATU
