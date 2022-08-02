@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8937d13f6fe02924cbc429bb469d0071, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 555157087801457699, guid: 84d34fb51bc355f47a16ac8d43d7c814, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: NPC_1
+    profile: {fileID: 21300000, guid: 61e32bb5c63daaf4daef8c025faa04dd, type: 3}
+    sentence:
+      portuguese: "Ol\xE1! N\xF3s fizemos esse jogo para que voc\xEA aprenda a se
+        orientar geograficamente...."
+      english: 
+      spanish: 
+  - actorName: NPC_1
+    profile: {fileID: 21300000, guid: 4b6c3e704a1aba44e95836db28b4c6be, type: 3}
+    sentence:
+      portuguese: "O objeto no canto superior da tela aponta para qual dire\xE7\xE3o
+        voc\xEA est\xE1 se movendo."
+      english: 
+      spanish: 
+  - actorName: NPC_1
+    profile: {fileID: 21300000, guid: 4b6c3e704a1aba44e95836db28b4c6be, type: 3}
+    sentence:
+      portuguese: Divirta-se!!!
+      english: 
+      spanish: 
